@@ -3,10 +3,10 @@ This is a public repo of Intentionally Vulnerable Android Apps that can be used 
 
 All rights are owned by their respective owners and creators. I have simply assembled my favourite apps at a single place for ease of access. 
 
-1. DIVA: Damn Insecure and Vulnerable Application by Payatu Labs
+1. DIVA (diva-beta.apk): Damn Insecure and Vulnerable Application by Payatu Labs
 
-2. Sieve: Intentionally Vulnerable Password Manager to be used with Drozer (or MobSF)
+2. Sieve (sieve.apk): Intentionally Vulnerable Password Manager to be used with Drozer (or MobSF)
 
-3. InsecureBankv2: To be used to practice Android Pentesting via Burp Suite
+3. InsecureBankv2 (InsecureBankv2.apk): To be used to practice Android Pentesting via Burp Suite
 
 
